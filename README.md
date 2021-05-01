@@ -1,10 +1,10 @@
-### Welcome to Hannah Freudenberger's Portfolio
+# Welcome to Hannah Freudenberger's Portfolio
 I graduated from Westminster College in May 2021 with a Bachelor's of Science in Computer Science with a Business Management Minor. This is my portfolio showing projects from my time as a student that I am proud of and believe display my tehcincal skills well. 
     
     
 ### [Resume](https://github.com/hannahlf/Resume/HannahFreudenberger_Resume.pdf)
  
-### Projects 
+## Projects 
 ### [AvalancheApp](https://github.com/hannahlf/AvalancheApp)
 This is my Senior Capstone for Westminster College. This is an iOS application that brings key knowledge to backcountry skiers about the weather and slope angle. This project was built in React Native. 
 
