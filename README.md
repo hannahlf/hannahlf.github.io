@@ -23,5 +23,3 @@ This project is where we developed a messaging application program using compute
 
 ### [Melody Program](https://github.com/hannahlf/Melody)
 This application shows my mastery of Object Oriented Programming. This project used java to develop a program that could read in music and play it from your laptop. I thought this was a really fun program to build and I really enjoyed the fact that this project also created a really fun application. 
-
-OBJECT ORIENTED PROGRAMING GOAL
