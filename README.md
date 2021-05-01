@@ -19,7 +19,9 @@ This is a final proof portfolio that I created in my Discrete Mathematics course
 This is a to do list that I created in shell script for my Computer Systems and Programming course. The user can add items to their list and remove them or mark them as completed. I am proud of this project because it is in a language that I was largely unfamiliar with prior to this course and I think this is a good display of my ability to learn new languages and produce quality work in new spaces. 
 
 ### [Networks Messaging App](https://github.com/hannahlf/NetworkMessaging)
-MEETS GOAL OF SYSTEM UNDERSTANDING OF COMPUTERS
+This project is where we developed a messaging application program using computer networks. I really enjoyed this project because it gave me a really good understanding of networks and how they worked. This was something completely new to me and I felt really confident after finishing this project because we were able to implement a full messaging application over the network.
 
 ### [Melody Program](https://github.com/hannahlf/Melody)
+This application shows my mastery of Object Oriented Programming. This project used java to develop a program that could read in music and play it from your laptop. I thought this was a really fun program to build and I really enjoyed the fact that this project also created a really fun application. 
+
 OBJECT ORIENTED PROGRAMING GOAL
